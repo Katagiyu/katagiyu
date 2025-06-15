@@ -4,6 +4,17 @@
 [![snake animation](https://github.com/<katagiyu>/<katagiyu>/blob/output/github-contribution-grid-snake2.svg)](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg
 )
 
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    github_user_name: katagiyu
+
+    # list of files to generate.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 Olá 👋, eu sou Yuta Katagiri! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
 
