@@ -36,7 +36,7 @@ Olá 👋, eu sou Yuta Katagiri! Estudante de Ciência da Computação apaixonad
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://giphy.com/gifs/pixel-art-mountain-kaijupxl-HRXnPYf10Zx0wz4alF" alt="Abstract Pixel Art" width="400"/>
+  <img align="center" src="https://media.giphy.com/media/HRXnPYf10Zx0wz4alF/giphy.gif" alt="Abstract Pixel Art" width="400"/>
 </p>
 
 ## 📁 Portfólios
