@@ -3,9 +3,8 @@ ajusta aqui ent
 # Olá Mundo
 
 <!-- Snake GitHub Commits -->
-[[![snake animation](https://github.com/<katagiyu>/<katagiyu>/blob/output/github-contribution-grid-snake2.svg)](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg
-)](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg
-)
+![snake animation](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg)
+
 
 - uses: Platane/snk@v3
   with:
