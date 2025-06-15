@@ -1,5 +1,3 @@
-ajusta aqui ent
-
 # Olá Mundo
 
 <!-- Snake GitHub Commits -->
