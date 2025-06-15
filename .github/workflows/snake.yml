@@ -2,14 +2,17 @@ name: Generate snake game
 
 on:
   schedule:
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # executa a cada 12 horas, no minuto zero
+  workflow_dispatch:       # permite rodar manualmente
 
 jobs:
   build:
-    name: Jobs to update data
+    name: Update snake animation
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Sutil/snk@master
         id: snake-gif
         with:
