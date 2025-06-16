@@ -51,7 +51,7 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
   <div style="width: 260px; height: 185px; overflow: hidden; border: 3px solid #4f5b66; border-radius: 12px; padding: 0; background-color: #1a1f2b; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
     <img 
       alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       style="transform: scale(0.7); transform-origin: top left; width: 400px; height: 157px; display: block;"
     />
   </div>
@@ -59,7 +59,7 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
   <div style="width: 260px; height: 140px; overflow: hidden; border: 3px solid #4f5b66; border-radius: 12px; padding: 0; background-color: #1a1f2b; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
     <img 
       alt="Tecnologias" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       style="transform: scale(0.7); transform-origin: top left; width: 400px; height: 120px; display: block;"
     />
   </div>
