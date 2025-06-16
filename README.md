@@ -39,7 +39,7 @@ Olá 👋, eu sou Yuta Katagiri! Estudante de Ciência da Computação apaixonad
 
 ## 📁 Portfólios
 
-[blender]https://github.com/Katagiyu/Blender
+[Blender](https://github.com/Katagiyu/Blender)
 
 ## 🔥 Habilidades
 
