@@ -2,7 +2,7 @@
 
 <!-- Snake GitHub Commits -->
 
-![snake](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seunome/seunome/blob/output/dist/ocean.gif)
 
 
 Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
