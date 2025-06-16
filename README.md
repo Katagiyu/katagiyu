@@ -1,9 +1,6 @@
 # Hello World
 
-<div align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
+![snake animation](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg)
 
 Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
 
