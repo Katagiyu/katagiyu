@@ -54,7 +54,7 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Tecnologias"
-    width="400" 
+    width="428" 
     style="border-radius: 12px;"
   />
 </div>
