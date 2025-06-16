@@ -1,7 +1,9 @@
 # Hello World
 
 <!-- Snake GitHub Commits -->
-![snake animation](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg)
+
+![snake](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake.svg)
+
 
 Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
 
