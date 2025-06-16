@@ -1,8 +1,8 @@
 # Hello World
 
-<!-- Snake GitHub Commits -->
-
-![Snake animation](https://github.com/seunome/seunome/blob/output/dist/ocean.gif)
+<div align="center">
+  <img src="github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 
 Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
