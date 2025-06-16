@@ -44,17 +44,21 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
 ---
 
 <!-- Estatísticas -->
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: nowrap; max-width: 820px; margin: 0 auto;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
-    width="400" />
-    
+    width="400" 
+    style="border-radius: 12px;"
+  />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Tecnologias"
-    width="400" />
+    width="400" 
+    style="border-radius: 12px;"
+  />
 </div>
+
 
 
 ---
