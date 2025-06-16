@@ -13,15 +13,15 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
 <!-- Bloco de detalhes sobre mim e formação -->
 <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 32px;">
 
-  <details style="flex: 1; min-width: 280px; border: 2px solid #4f5b66; border-radius: 12px; padding: 16px; background-color: #1a1f2b;">
+  <details style="flex: 1; min-width: 280px; border: none; border-radius: 12px; padding: 16px; background-color: #1a1f2b;">
     <summary style="font-weight: 600; cursor: pointer; font-size: 1.1rem; color: #82aaff;">👨‍💻 Mais sobre mim</summary>
     <ul style="margin-top: 12px; color: #c0caf5; line-height: 1.5;">
       <li>💬 Tenho 19 anos, moro no Brasil atualmente, porém nasci no Japão.</li>
-      <li>⚡ Gosto de ler livros, mangás e quadrinhos, além de assistir filmes e jogar videogame! Acredito que nossos interesses pessoais contribuem para uma visão mais criativa e eficiente na resolução de problemas.</li>
+      <li>⚡ Gosto de ler livros, mangás e quadrinhos, além de assistir filmes e jogar videogame!</li>
     </ul>
   </details>
 
-  <details style="flex: 1; min-width: 280px; border: 2px solid #4f5b66; border-radius: 12px; padding: 16px; background-color: #1a1f2b;">
+  <details style="flex: 1; min-width: 280px; border: none; border-radius: 12px; padding: 16px; background-color: #1a1f2b;">
     <summary style="font-weight: 600; cursor: pointer; font-size: 1.1rem; color: #82aaff;">📚 Formação</summary>
     <ul style="margin-top: 12px; color: #c0caf5; line-height: 1.5;">
       <li>🎓 Cursando Ciência da Computação na PUC Minas</li>
@@ -36,7 +36,7 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
   <a href="https://www.instagram.com/yuta_katagirii?igsh=ejg4bWczM2hlZDZu" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="28" style="border-radius: 8px;" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/yuta-katagiri-b2a2a52b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/yuta-katagiri-b2a2a52b0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="border-radius: 8px;" alt="LinkedIn" />
   </a>
 </p>
@@ -44,19 +44,19 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
 ---
 
 <!-- Estatísticas -->
-<p align="center">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
     width="430" />
+    
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Tecnologias"
-    width="468" />
-</p>
+    width="430" />
+</div>
 
-
-
+---
 
 ## 📁 Portfólios
 
