@@ -1,6 +1,8 @@
 # Hello World
 
-![snake animation](https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" alt="snake animation">
+</div>
 
 Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
 
@@ -41,27 +43,18 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
 
 ---
 
-### 📊 Estatísticas
+<!-- Estatísticas -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats"
+    width="430" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Tecnologias"
+    width="468" />
+</p>
 
-<div style="display: flex; gap: 24px; flex-wrap: nowrap; align-items: flex-start; justify-content: center;">
-
-  <div style="width: 260px; height: 185px; overflow: hidden; border: 3px solid #4f5b66; border-radius: 12px; padding: 0; background-color: #1a1f2b; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-    <img 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      style="transform: scale(0.7); transform-origin: top left; width: 400px; height: 157px; display: block;"
-    />
-  </div>
-
-  <div style="width: 260px; height: 140px; overflow: hidden; border: 3px solid #4f5b66; border-radius: 12px; padding: 0; background-color: #1a1f2b; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-    <img 
-      alt="Tecnologias" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      style="transform: scale(0.7); transform-origin: top left; width: 400px; height: 120px; display: block;"
-    />
-  </div>
-
-</div>
 
 
 
