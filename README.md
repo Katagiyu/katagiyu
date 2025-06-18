@@ -17,7 +17,8 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
     <summary style="font-weight: 600; cursor: pointer; font-size: 1.1rem; color: #82aaff;">👨‍💻 Mais sobre mim</summary>
     <ul style="margin-top: 12px; color: #c0caf5; line-height: 1.5;">
       <li>💬 Tenho 19 anos, moro no Brasil atualmente, porém nasci no Japão.</li>
-      <li>⚡ Gosto de ler livros, mangás e quadrinhos, além de assistir filmes e jogar videogame!</li>
+      <li>⚡ Gosto de ler livros, além de assistir filmes e jogar videogame!</li>
+      <li>⚡ Gosto de trabalhar principalmente com ferramentas da microsoft (excel/power BI)!</li>
     </ul>
   </details>
 
