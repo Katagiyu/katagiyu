@@ -45,16 +45,18 @@ Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaix
 ---
 
 <!-- Estatísticas -->
-<div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; max-width: 850px; margin: 0 auto;">
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: nowrap; max-width: 820px; margin: 0 auto;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
     alt="GitHub Stats"
-    style="flex: 1; min-width: 280px; max-width: 400px; border-radius: 12px;"
+    width="400" 
+    style="border-radius: 12px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true" 
     alt="Tecnologias"
-    style="flex: 1; min-width: 280px; max-width: 400px; border-radius: 12px;"
+    width="428" 
+    style="border-radius: 12px;"
   />
 </div>
 
