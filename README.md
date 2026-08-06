@@ -1,84 +1,256 @@
-# Hello World
-
 <div align="center">
-  <img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" alt="snake animation">
-</div>
 
-Olá 👋, eu sou **Yuta Katagiri**! Estudante de Ciência da Computação apaixonado por tecnologia e dados.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-- 🎓 Atualmente curso Ciência da Computação na PUC Minas.
+<br>
 
----
+**Estudante de Ciência da Computação @ PUC Minas**  
+*Desenvolvimento de Software • Dados • Automação de Processos*
 
-<!-- Bloco de detalhes sobre mim e formação -->
-<div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 32px;">
+<br>
 
-  <details style="flex: 1; min-width: 280px; border: none; border-radius: 12px; padding: 16px; background-color: #1a1f2b;">
-    <summary style="font-weight: 600; cursor: pointer; font-size: 1.1rem; color: #82aaff;">👨‍💻 Mais sobre mim</summary>
-    <ul style="margin-top: 12px; color: #c0caf5; line-height: 1.5;">
-      <li>💬 Tenho 20 anos, moro no Brasil atualmente, porém nasci no Japão.</li>
-      <li>⚡ Gosto de ler livros, além de assistir filmes e jogar videogame!</li>
-      <li>⚡ Gosto de trabalhar principalmente com ferramentas da microsoft (excel/power BI)!</li>
-    </ul>
-  </details>
+<img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" />
 
-  <details style="flex: 1; min-width: 280px; border: none; border-radius: 12px; padding: 16px; background-color: #1a1f2b;">
-    <summary style="font-weight: 600; cursor: pointer; font-size: 1.1rem; color: #82aaff;">📚 Formação</summary>
-    <ul style="margin-top: 12px; color: #c0caf5; line-height: 1.5;">
-      <li>🎓 Cursando Ciência da Computação na PUC Minas</li>
-      <li>📆 Início: 2024 — Término previsto: 2028</li>
-    </ul>
-  </details>
+<br><br>
+
+
+<a href="https://www.linkedin.com/in/yuta-katagiri-b2a2a52b0">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yuta.katagiri06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/yuta_katagirii">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
-<!-- Redes Sociais -->
-<p align="left" style="margin-bottom: 48px;">
-  <a href="https://www.instagram.com/yuta_katagirii?igsh=ejg4bWczM2hlZDZu" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="28" style="border-radius: 8px;" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/yuta-katagiri-b2a2a52b0" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="border-radius: 8px;" alt="LinkedIn" />
-  </a>
-</p>
 
----
+<br>
 
-<!-- Estatísticas -->
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: nowrap; max-width: 820px; margin: 0 auto;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-    alt="GitHub Stats"
-    width="400" 
-    style="border-radius: 12px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true" 
-    alt="Tecnologias"
-    width="428" 
-    style="border-radius: 12px;"
-  />
+
+## 📌 Sobre Mim
+
+<div align="left">
+
+* 🇧🇷🇯🇵 **Perfil:** Brasileiro com raízes japonesas, apaixonado por tecnologia e inovação.
+
+* 🎓 **Formação:** Bacharelado em Ciência da Computação na **PUC Minas** (*2024 — 2028*).
+
+* 💻 **Foco Profissional:** Desenvolvimento de software, automação de processos, análise de dados e criação de soluções digitais.
+
+* 🎯 **Interesses:** Ecossistema Microsoft, Inteligência Artificial, IoT, Computação Gráfica e Engenharia de Software.
+
 </div>
 
----
 
-## 📁 Portfólios
+<br>
 
-- [Blender](https://github.com/Katagiyu/Blender)
 
----
+## 🚀 Atualmente Desenvolvendo
 
-## 🔥 Habilidades
+<div align="left">
+
+* 🤖 Automações utilizando **Python + Selenium**.
+
+* 📊 Dashboards e indicadores utilizando **Power BI**.
+
+* ⚙️ Soluções utilizando ferramentas Microsoft (**Excel, Power Automate e SharePoint**).
+
+* 💻 Projetos acadêmicos envolvendo programação, estruturas de dados e desenvolvimento de software.
+
+</div>
+
+
+<br>
+
+
+## 💻 Habilidades Tecnológicas
+
 
 ### Linguagens de Programação
-<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin-bottom: 24px;">
-  <img alt="Visual Basic" title="Visual Basic" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" />
-  <img alt="C" title="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="Java" title="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<p>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+
+</p>
+
+
+### Dados & Automação
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+
+### Ferramentas & Outros
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+
+</p>
+
+
+
+<br>
+
+
+## 🛠️ Projetos em Destaque
+
+
+🚚 **Automação MultiTMS**
+
+Automação de processos operacionais utilizando **Python + Selenium**, reduzindo tarefas manuais e aumentando eficiência.
+
+
+<br>
+
+
+📊 **Dashboards Logísticos**
+
+Desenvolvimento de indicadores e análises utilizando **Power BI**, transformando dados operacionais em informações para tomada de decisão.
+
+
+<br>
+
+
+💧 **Smart Water Monitor**
+
+Projeto IoT utilizando **ESP32**, sensores e componentes eletrônicos para monitoramento inteligente de nível de água.
+
+
+<br>
+
+
+🎨 **Blender Portfolio**
+
+Projetos de modelagem 3D, renderização e computação gráfica utilizando Blender.
+
+
+
+<br>
+
+
+## 📊 Estatísticas & Atividade no GitHub
+
+
+<div align="center">
+
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false" height="165" />
+
+</td>
+
+
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true&hide_border=false" height="165" />
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Katagiyu&theme=tokyonight&count_private=true&hide_border=false" height="165" />
+
+
+<br><br>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Katagiyu&theme=tokyo-night&area=true&hide_border=false" width="100%" />
+
+
 </div>
 
-### Ferramentas e Ambientes
-<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
-  <img alt="VSCode" title="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Apache" title="Apache" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+
+
+<br>
+
+
+## 💭 Pensamento
+
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="700" align="center">
+
+<br>
+
+<h3>
+
+"We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+</h3>
+
+<br>
+
+<b>— Alan Turing</b>
+
+<br><br>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+<br>
+
+
+<div align="center">
+
+<sub><i>
+Construindo soluções através de código, automação e dados.
+</i></sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer" width="100%" />
+
 </div>
