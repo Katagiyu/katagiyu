@@ -1,121 +1,126 @@
 <div align="center">
 
 <!-- ================= HEADER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
-<br />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  width="100%"
+  alt="Header"
+/>
 
-<b>Estudante de Ciência da Computação @ PUC Minas</b><br />
-<i>Desenvolvimento de Software • Dados • Automação de Processos</i>
+### Estudante de Ciência da Computação @ PUC Minas
 
----
+**Desenvolvimento de Software • Dados • Automação de Processos**
 
-<br /><br />
+<br>
 
 <!-- ================= SNAKE ================= -->
 <img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
 
-<br /><br />
-
-
-<!-- ================= CONTATO ================= -->
-<a href="https://www.linkedin.com/in/yuta-katagiri-b2a2a52b0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:yuta.katagiri06@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.instagram.com/yuta_katagirii" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
 
 </div>
 
-<br />
+---
 
-<!-- ================= SOBRE MIM ================= -->
 ## 📌 Sobre Mim
 
-<div align="left">
+- 🎓 **Formação:** Bacharelado em Ciência da Computação na **PUC Minas** (*2024 — 2028*).
+- 💻 **Foco Profissional:** Desenvolvimento de software, automação de processos, análise de dados e criação de soluções digitais.
+- 🚀 **Atuação:** Desenvolvimento de automações, dashboards, soluções com ferramentas Microsoft e projetos acadêmicos.
+- 🎯 **Interesses:** Engenharia de Software, Inteligência Artificial, Dados, IoT, Computação Gráfica e Automação.
 
-* 🇧🇷/🇯🇵 **Perfil:** Brasileiro com raízes japonesas, apaixonado por tecnologia e inovação.
-* 🎓 **Formação:** Bacharelado em Ciência da Computação na **PUC Minas** (*2024 — 2028*).
-* 💻 **Foco Profissional:** Desenvolvimento de software, automação de processos, análise de dados e criação de soluções digitais.
-* 🎯 **Interesses:** Ecossistema Microsoft, Inteligência Artificial, IoT, Computação Gráfica e Engenharia de Software.
+---
 
-</div>
-
-<br />
-
-<!-- ================= ATUALMENTE DESENVOLVENDO ================= -->
 ## 🚀 Atualmente Desenvolvendo
 
-<div align="left">
+- 🤖 Automações utilizando **Python + Selenium**.
+- 📊 Dashboards e indicadores utilizando **Power BI**.
+- ⚙️ Soluções utilizando ferramentas Microsoft (**Excel, Power Automate e SharePoint**).
+- 💻 Projetos acadêmicos envolvendo programação, estruturas de dados e desenvolvimento de software.
+- 🧠 Aprimoramento contínuo em **Java, Python, C e Engenharia de Software**.
 
-* 🤖 Automações utilizando **Python + Selenium**.
-* 📊 Dashboards e indicadores utilizando **Power BI**.
-* ⚙️ Soluções utilizando ferramentas Microsoft (**Excel, Power Automate e SharePoint**).
-* 💻 Projetos acadêmicos envolvendo programação, estruturas de dados e desenvolvimento de software.
+---
 
-</div>
-
-<br />
-
-<!-- ================= HABILIDADES ================= -->
 ## 💻 Habilidades Tecnológicas
 
 ### Linguagens de Programação
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Basic" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" height="45" alt="Python Java C">
 </p>
 
 ### Dados & Automação
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" height="35" alt="Power Query">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" height="35" alt="Power Automate">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="35" alt="Selenium">
 </p>
 
 ### Ferramentas & Outros
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,blender" height="45" alt="Git GitHub VS Code Blender">
 </p>
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" height="35" alt="SharePoint">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="35" alt="ESP32">
+</p>
 
-<!-- ================= PROJETOS ================= -->
+---
+
 ## 🛠️ Projetos em Destaque
 
-<div align="left">
+🚚 Automação MultiTMS
 
-🚚 **Automação MultiTMS**<br>
-Automação de processos operacionais utilizando **Python + Power Automate**, reduzindo tarefas manuais e aumentando eficiência.
+Automação de processos operacionais utilizando Python, Selenium e ferramentas Microsoft, buscando reduzir tarefas manuais, aumentar a eficiência e melhorar a confiabilidade dos processos.
 
-<br>
+Tecnologias:
 
-📊 **Dashboards Logísticos**<br>
-Desenvolvimento de indicadores e análises utilizando **Power BI**, transformando dados operacionais em informações para tomada de decisão.
+<p> <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python"> <img src="https://skillicons.dev/icons?i=selenium" height="35" alt="Selenium"> <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git"> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" height="35" alt="Power Automate"> </p>
 
-<br>
+Python • Selenium • Excel • Power Automate
 
-💧 **Smart Water Monitor**<br>
-Projeto IoT utilizando **ESP32**, sensores e componentes eletrônicos para monitoramento inteligente de nível de água.
+---
 
-<br>
+📊 Dashboards Logísticos
 
-🎨 **Blender Portfolio**<br>
-Projetos de modelagem 3D, renderização e computação gráfica utilizando Blender.
+Desenvolvimento de dashboards e indicadores utilizando Power BI, transformando dados operacionais em informações relevantes para acompanhamento e tomada de decisão.
 
-</div>
+Tecnologias:
 
-<br />
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" alt="Excel"> </p>
+
+Power BI • Power Query • Excel • DAX
+
+---
+
+💧 Smart Water Monitor
+
+Projeto de IoT utilizando ESP32 e sensores para monitoramento inteligente do nível de água, envolvendo programação, eletrônica e desenvolvimento de uma solução integrada.
+
+Tecnologias:
+
+<p> <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="Arduino"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="ESP32"> </p>
+
+ESP32 • C/C++ • Sensores • Eletrônica
+
+---
+
+🎨 Blender Portfolio
+
+Projetos de modelagem 3D, renderização e computação gráfica, explorando criação de objetos, ambientes e diferentes técnicas de visualização.
+
+Tecnologias:
+
+<p> <img src="https://skillicons.dev/icons?i=blender" height="35" alt="Blender"> </p>
+
+Blender • Modelagem 3D • Computação Gráfica
+
+---
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 Estatísticas & Atividade no GitHub
