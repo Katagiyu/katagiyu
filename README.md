@@ -3,7 +3,7 @@
 <!-- ================= HEADER ================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=YUTA%20KATAGIRI&fontSize=60&fontColor=c9c9c9&fontAlignY=38&animation=fadeIn&stroke=ffffff&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn"
   width="100%"
   alt="Header"
 />
@@ -123,7 +123,7 @@ Projetos de modelagem 3D, renderização e computação gráfica, explorando cri
   <img src="https://skillicons.dev/icons?i=blender" height="35" alt="Blender">
 </p>
 
-[🔗 Ver repositório](https://github.com/Katagiyu/Blender)
+[🔗 Ver repositório](SEU_LINK_AQUI)
 
 ---
 
@@ -136,6 +136,7 @@ Projetos de modelagem 3D, renderização e computação gráfica, explorando cri
 </div>
 
 <img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
+
 
 </div>
 
