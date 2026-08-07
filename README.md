@@ -3,7 +3,7 @@
 <!-- ================= HEADER ================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=YUTA%20KATAGIRI&fontSize=60&fontColor=c9c9c9&fontAlignY=38&animation=fadeIn&stroke=ffffff&strokeWidth=1"
   width="100%"
   alt="Header"
 />
@@ -12,11 +12,15 @@
 
 **Desenvolvimento de Software • Dados • Automação de Processos**
 
+<p>
+  <a href="mailto:yuta.katagiri06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yuta-katagiri-b2a2a52b0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 <br>
 
-<!-- ================= SNAKE ================= -->
-<img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
-
+<!-- ================= TYPING ANIMATION ================= -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B7C6&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+de+processos+com+Python+%26+Selenium;Dashboards+e+an%C3%A1lise+de+dados+com+Power+BI;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
 
@@ -25,19 +29,8 @@
 ## 📌 Sobre Mim
 
 - 🎓 **Formação:** Bacharelado em Ciência da Computação na **PUC Minas** (*2024 — 2028*).
-- 💻 **Foco Profissional:** Desenvolvimento de software, automação de processos, análise de dados e criação de soluções digitais.
-- 🚀 **Atuação:** Desenvolvimento de automações, dashboards, soluções com ferramentas Microsoft e projetos acadêmicos.
-- 🎯 **Interesses:** Engenharia de Software, Inteligência Artificial, Dados, IoT, Computação Gráfica e Automação.
-
----
-
-## 🚀 Atualmente Desenvolvendo
-
-- 🤖 Automações utilizando **Python + Selenium**.
-- 📊 Dashboards e indicadores utilizando **Power BI**.
-- ⚙️ Soluções utilizando ferramentas Microsoft (**Excel, Power Automate e SharePoint**).
-- 💻 Projetos acadêmicos envolvendo programação, estruturas de dados e desenvolvimento de software.
-- 🧠 Aprimoramento contínuo em **Java, Python, C e Engenharia de Software**.
+- 💻 **Foco:** Desenvolvimento de software, automação de processos e análise de dados — atualmente trabalhando com automações em **Python + Selenium**, dashboards em **Power BI** e soluções com ferramentas Microsoft (Excel, Power Automate, SharePoint).
+- 🎯 **Interesses:** Engenharia de Software, Inteligência Artificial, IoT e Computação Gráfica.
 
 ---
 
@@ -74,79 +67,77 @@
 
 ## 🛠️ Projetos em Destaque
 
-🚚 Automação MultiTMS
+### 🚚 Automação MultiTMS
 
-Automação de processos operacionais utilizando Python, Selenium e ferramentas Microsoft, buscando reduzir tarefas manuais, aumentar a eficiência e melhorar a confiabilidade dos processos.
+Automação de processos operacionais utilizando Python, Selenium e ferramentas Microsoft, reduzindo tarefas manuais e aumentando a confiabilidade dos processos.
 
-Tecnologias:
+**Stack:** Python • Selenium • Excel • Power Automate
 
-<p> <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python"> <img src="https://skillicons.dev/icons?i=selenium" height="35" alt="Selenium"> <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git"> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" height="35" alt="Power Automate"> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
+  <img src="https://skillicons.dev/icons?i=selenium" height="35" alt="Selenium">
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git">
+</p>
 
-Python • Selenium • Excel • Power Automate
-
----
-
-📊 Dashboards Logísticos
-
-Desenvolvimento de dashboards e indicadores utilizando Power BI, transformando dados operacionais em informações relevantes para acompanhamento e tomada de decisão.
-
-Tecnologias:
-
-<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" alt="Excel"> </p>
-
-Power BI • Power Query • Excel • DAX
+🔒 *Repositório privado — código disponível sob solicitação.*
 
 ---
 
-💧 Smart Water Monitor
+### 📊 Dashboards Logísticos
 
-Projeto de IoT utilizando ESP32 e sensores para monitoramento inteligente do nível de água, envolvendo programação, eletrônica e desenvolvimento de uma solução integrada.
+Desenvolvimento de dashboards e indicadores utilizando Power BI, transformando dados operacionais em informações para tomada de decisão.
 
-Tecnologias:
+**Stack:** Power BI • Power Query • Excel • DAX
 
-<p> <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="Arduino"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="ESP32"> </p>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" alt="Excel">
+</p>
 
-ESP32 • C/C++ • Sensores • Eletrônica
+🚧 *Repositório ainda não publicado.*
 
 ---
 
-🎨 Blender Portfolio
+### 💧 Smart Water Monitor
+
+Projeto de IoT utilizando ESP32 e sensores para monitoramento inteligente do nível de água, envolvendo programação, eletrônica e integração de hardware.
+
+**Stack:** ESP32 • C/C++ • Sensores • Eletrônica
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" alt="ESP32">
+</p>
+
+🚧 *Repositório ainda não publicado.*
+
+---
+
+### 🎨 Blender Portfolio
 
 Projetos de modelagem 3D, renderização e computação gráfica, explorando criação de objetos, ambientes e diferentes técnicas de visualização.
 
-Tecnologias:
+**Stack:** Blender • Modelagem 3D • Computação Gráfica
 
-<p> <img src="https://skillicons.dev/icons?i=blender" height="35" alt="Blender"> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" height="35" alt="Blender">
+</p>
 
-Blender • Modelagem 3D • Computação Gráfica
+[🔗 Ver repositório](https://github.com/Katagiyu/Blender)
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 Estatísticas & Atividade no GitHub
+## 📊 Estatísticas no GitHub
 
 <div align="center">
-
-  <!-- Cards Principais -->
-  <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" height="165" alt="Estatísticas do GitHub" />
-    &nbsp;&nbsp;
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true&hide_border=true" height="165" alt="Top Linguagens" />
-  </p>
-
-  <!-- Streak -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katagiyu&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Streak" />
-  </p>
-
-  <!-- Gráfico de Atividade -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katagiyu&theme=tokyo-night&area=true&hide_border=true" width="100%" style="max-width: 800px;" alt="Gráfico de Atividades" />
-  </p>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true&hide_border=true" height="165" alt="Top Linguagens" />
 </div>
 
-<br />
+<img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
+
+</div>
 
 <!-- ================= FRASE ================= -->
 ## 💭 Pensamento
