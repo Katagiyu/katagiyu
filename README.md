@@ -3,9 +3,9 @@
 <!-- ================= HEADER ================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn"
-  width="100%"
-  alt="Header"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Yuta%20Katagiri&fontSize=45&fontColor=ffffff&animation=fadeIn"
+width="100%"
+alt="Header"
 />
 
 ### Estudante de Ciência da Computação @ PUC Minas
@@ -20,6 +20,7 @@
 <br>
 
 <!-- ================= TYPING ANIMATION ================= -->
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B7C6&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+de+processos+com+Python+%26+Selenium;Dashboards+e+an%C3%A1lise+de+dados+com+Power+BI;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
@@ -28,9 +29,9 @@
 
 ## 📌 Sobre Mim
 
-- 🎓 **Formação:** Bacharelado em Ciência da Computação na **PUC Minas** (*2024 — 2028*).
-- 💻 **Foco:** Desenvolvimento de software, automação de processos e análise de dados — atualmente trabalhando com automações em **Python + Selenium**, dashboards em **Power BI** e soluções com ferramentas Microsoft (Excel, Power Automate, SharePoint).
-- 🎯 **Interesses:** Engenharia de Software, Inteligência Artificial, IoT e Computação Gráfica.
+* 🎓 **Formação:** Bacharelado em Ciência da Computação na **PUC Minas** (*2024 — 2028*).
+* 💻 **Foco:** Desenvolvimento de software, automação de processos e análise de dados — atualmente trabalhando com automações em **Python + Selenium**, dashboards em **Power BI** e soluções com ferramentas Microsoft (Excel, Power Automate, SharePoint).
+* 🎯 **Interesses:** Engenharia de Software, Inteligência Artificial, IoT e Computação Gráfica.
 
 ---
 
@@ -130,17 +131,17 @@ Projetos de modelagem 3D, renderização e computação gráfica, explorando cri
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended-frontend-taupe-kappa.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" height="165" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true&hide_border=true" height="165" alt="Top Linguagens" />
+  <img src="https://github-stats-extended-frontend-taupe-kappa.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true&hide_border=true" height="165" alt="Top Linguagens" />
 </div>
 
 <img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
 
-
 </div>
 
 <!-- ================= FRASE ================= -->
+
 ## 💭 Pensamento
 
 <div align="center">
@@ -150,6 +151,7 @@ Projetos de modelagem 3D, renderização e computação gráfica, explorando cri
 <br />
 
 <!-- ================= FOOTER ================= -->
+
 <div align="center">
   <sub><i>Construindo soluções através de código, automação e dados.</i></sub>
   <br /><br />
