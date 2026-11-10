@@ -114,6 +114,25 @@ Projeto de IoT utilizando ESP32 e sensores para monitoramento inteligente do ní
 
 ---
 
+### 🛒 App Comparador de Preços de Supermercados
+
+Aplicativo móvel que reúne as promoções publicadas nos panfletos dos mercados e compara preços entre estabelecimentos, incluindo o custo estimado de deslocamento. Projeto acadêmico em desenvolvimento, voltado a famílias de baixa renda e a instituições que compram em volume para doação. Atuo na modelagem do banco de dados (DER) e na coleta automatizada dos dados, com Python, Selenium e leitura dos panfletos por IA.
+
+**Stack:** Python • Selenium • PostgreSQL • Supabase • IA (Gemini)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python">
+  <img src="https://skillicons.dev/icons?i=selenium" height="35" alt="Selenium">
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=supabase" height="35" alt="Supabase">
+</p>
+
+🚧 *Repositório ainda não publicado.*
+
+<!-- QUANDO O REPOSITÓRIO ESTIVER PUBLICADO: apague a linha "Repositório ainda não publicado" acima e coloque no lugar a linha abaixo, trocando NOME-DO-REPO pelo nome real. [🔗 Ver repositório](https://github.com/Katagiyu/NOME-DO-REPO) -->
+
+---
+
 ### 🎨 Blender Portfolio
 
 Projetos de modelagem 3D, renderização e computação gráfica, explorando criação de objetos, ambientes e diferentes técnicas de visualização.
@@ -131,14 +150,12 @@ Projetos de modelagem 3D, renderização e computação gráfica, explorando cri
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended-frontend-taupe-kappa.vercel.app/api?username=Katagiyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended-frontend-taupe-kappa.vercel.app/api/top-langs/?username=Katagiyu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&count_private=true&hide_border=true" height="165" alt="Top Linguagens" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="Top Linguagens" />
 </div>
 
 <img src="https://github.com/katagiyu/katagiyu/blob/output/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
-
-</div>
 
 <!-- ================= FRASE ================= -->
 
